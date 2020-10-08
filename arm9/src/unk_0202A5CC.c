@@ -11,8 +11,8 @@ extern void FUN_02013960(void *arg0, u32 arg1);
 
 struct Unk0202A5CC
 {
-    u32 b0;
-    u32 b4;
+    u32 filler;
+    u32 u_4;
 };
 
 // Prototypes for this file
@@ -23,12 +23,12 @@ struct MailMessage *FUN_0202A5F4(struct SaveBlock2 *sav2, u32 arg1);
 
 void FUN_0202A5CC(struct Unk0202A5CC *unk, u32 arg1)
 {
-    unk->b4 = arg1;
+    unk->u_4 = arg1;
 }
 
 u32 FUN_0202A5D0(struct Unk0202A5CC *unk)
 {
-    return unk->b4;
+    return unk->u_4;
 }
 
 

@@ -110,8 +110,6 @@ Static arm9
 	Object unk_02029EC4.o
 	Object unk_02029FB0.o
 	Object unk_0202A1E0.o
-	Object unk_0202A2C4.o
-	Object unk_0202A398.o
 	Object unk_0202A4B8.o
 	Object unk_0202A520.o
 	Object unk_0202A578.o
@@ -122,6 +120,7 @@ Static arm9
 	Object unk_0202A744.o
 	Object unk_0202A798.o	
 	Object unk_0202A838.o
+	Object unk_0202A8F4.o
 	Object unk_0202A924.o
 	Object unk_0202ABBC.o
 	Object unk_0202AC20.o

@@ -1,6 +1,7 @@
 #include "global.h"
 #include "MI_memory.h"
 #include "msgdata.h"
+#include "function_target.h"
 
 #pragma thumb on
 
